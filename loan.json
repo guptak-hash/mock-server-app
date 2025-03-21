@@ -1,0 +1,43 @@
+{
+  "loans": [
+  {
+    "company": "ABC Corp",
+    "logo": "abc_corp_logo.png",
+    "typeOfLoan": "Business Loan",
+    "interestRate": "7.5%",
+    "loanAmount": "$500,000",
+    "tenure": "5 years",
+    "eligibility": "Minimum turnover of $1M",
+    "processingFee": "1% of loan amount",
+    "collateralRequired": "Yes",
+    "approvalTime": "7-10 business days",
+    "contact": "loans@abccorp.com"
+  },
+  {
+    "company": "XYZ Ltd",
+    "logo": "xyz_ltd_logo.png",
+    "typeOfLoan": "Personal Loan",
+    "interestRate": "12%",
+    "loanAmount": "$50,000",
+    "tenure": "3 years",
+    "eligibility": "Credit score > 700",
+    "processingFee": "2% of loan amount",
+    "collateralRequired": "No",
+    "approvalTime": "5-7 business days",
+    "contact": "loans@xyzltd.com"
+  },
+  {
+    "company": "Tech Innovators",
+    "logo": "tech_innovators_logo.png",
+    "typeOfLoan": "Startup Loan",
+    "interestRate": "9%",
+    "loanAmount": "$200,000",
+    "tenure": "4 years",
+    "eligibility": "Registered startup less than 2 years old",
+    "processingFee": "1.5% of loan amount",
+    "collateralRequired": "Yes",
+    "approvalTime": "10-14 business days",
+    "contact": "loans@techinnovators.com"
+  }
+  ]
+}
